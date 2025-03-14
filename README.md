@@ -1,3 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-# starta-homework
+# Dart 기초 [Ch.2-1] 개인 과제
+
+### 구현한 기능
+
+- 상품 목록 보기
+- 장바구니에 담기
+- 장바구니에 담긴 상품 목록 & 총 가격 보기
+
+- 프로그램 종료
+- 장바구니 초기화
